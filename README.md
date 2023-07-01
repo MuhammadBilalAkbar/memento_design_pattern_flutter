@@ -31,12 +31,38 @@ samples, guidance on mobile development, and a full API reference.
 
 **Flutter Videos/Articles**
 
+- 98K: https://youtu.be/jOnxYT8Iaoo
 - https://medium.com/flutter-community/flutter-design-patterns-13-memento-b487769cf104
 - https://scottt2.github.io/design-patterns-in-dart/memento/
 
 **Android/Swift/React Videos**
 
--
+- 1.1K: https://youtu.be/JS6H3Zo4_2I
+- 7.5K: https://youtu.be/AReejnoyysk
+- 9.4K: https://youtu.be/_Q5rXfGuyLQ
+- 98K: https://youtu.be/jOnxYT8Iaoo
+- 6.2K: https://youtu.be/YLxrlcoc69Y
+- 11K: https://youtu.be/QPhSMIBfMjA
+- 14K: https://youtu.be/wpkYAdPDO30
+- https://www.tutorialspoint.com/design_pattern/memento_pattern.htm
+- https://www.baeldung.com/java-memento-design-pattern
+- https://www.geeksforgeeks.org/memento-design-pattern/
+- https://refactoring.guru/design-patterns/memento
+- https://refactoring.guru/design-patterns/memento/java/example
+- https://www.javatpoint.com/memento-pattern
+- https://www.techcrashcourse.com/2015/10/memento-design-pattern-in-java.html
+- https://dzone.com/articles/memento-design-pattern-in-java
+- https://incusdata.com/blog/design-patterns-memento-pattern
+- https://www.learn-it-with-examples.com/development/java/java-design-patterns/java-memento.html
+- https://refactoring.guru/design-patterns/memento/swift/example
+- https://medium.com/@iam_saurav/memento-design-pattern-a94bafd0e081
+- https://holyswift.app/memento-pattern-with-swiftui/
+- http://www.coursegalaxy.com/design-patterns/memento-swift.html
+- http://coursegalaxy.com/design-patterns/memento.html
+- https://www.appcoda.com/design-pattern-behavorial/
+- https://github.com/ochococo/Design-Patterns-In-Swift/blob/master/source/behavioral/memento.swift
+- https://sourcemaking.com/design_patterns/memento
+- https://www.geeksforgeeks.org/memento-design-pattern/
 
 **Great Features**
 
@@ -82,6 +108,8 @@ _Without violating encapsulation, capture and externalize an object’s internal
 object can be restored to this state later._
 
 ## Analysis:
+
+![](memento_design_pattern.png)
 
 **Memento** is an object that represents the saved state of the Originator. It provides a way to
 store and retrieve the state of the Originator, without exposing the details of the state itself.
